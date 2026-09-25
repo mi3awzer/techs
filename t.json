@@ -2,7 +2,7 @@
   "langages": [
     {
       "nom": "JavaScript",
-      "frameworks": ["React", "Vue.js", "Angular", "Svelte", "Next.js", "Nuxt.js", "Express.js", "NestJS"]
+      "frameworks": ["React", "Vue.js", "Angular", "Svelte", "Next.js", "Nuxt.js", "Express.js", "NestJS", "Adonis"]
     },
     {
       "nom": "TypeScript",
